@@ -1,2 +1,2 @@
 # License-Plate-Detection
-Built a machine learning model with Template Matching technique using OCR (Optical Character Recognition) to detect the license plate of a vehicles. 
+Built a machine learning model with Template Matching technique using Optical Character Recognition (OCR) to detect the license plates of vehicles. 
